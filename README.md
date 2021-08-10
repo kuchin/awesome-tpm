@@ -26,7 +26,9 @@ A curated and **opinionated** list of resources for Technical Program Managers
 - [How to Hire a Product Manager](https://www.bringthedonuts.com/essays/productmanager.html)
 - [Execution at Facebook](https://productlife.to/p/-execution-at-facebook)
 - [Google - Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
- 
+
+## Other
+- [Awesome CTO](https://github.com/kuchin/awesome-cto)
  
 ## License
 
