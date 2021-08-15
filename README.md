@@ -8,7 +8,6 @@ A curated and **opinionated** list of resources for Technical Program Managers
 - [What does a technical program manager do in practice?](https://www.reddit.com/r/cscareerquestions/comments/kgyneo/what_does_a_technical_program_manager_do_in/) _(Reddit)_
 - [What Is a Program Manager vs. a Project Manager?](https://www.wrike.com/blog/program-manager-vs-project-manager/)
 - [Product Manager versus Program Manager](https://www.linkedin.com/posts/sandyacarter_amazon-marketing-productmarketing-activity-6828406552110755840-f-wJ/)
-- [The Ultimate Guide to Program Management](https://www.projectmanager.com/program-management)
 
 ## Advanced
 
@@ -17,7 +16,6 @@ A curated and **opinionated** list of resources for Technical Program Managers
 - [Doordash - 6 Principles for Building a World Class TPM Team](https://doordash.engineering/2021/08/02/6-principles-for-building-a-world-class-tpm-team/)
 - [Technical program management: Why we started a TPM team at FullStory](https://www.fullstory.com/blog/technical-program-management-why-we-started-a-tpm-team)
 - [Role of TPM](https://www.linkedin.com/pulse/technical-program-manager-vraj-shroff/)
-- [Facebook TPM interview: the only post you'll need to read](https://igotanoffer.com/blogs/tech/facebook-technical-program-manager-interview)
 
 ## Related
 
@@ -25,7 +23,11 @@ A curated and **opinionated** list of resources for Technical Program Managers
 - [Be a Great Product Leader](https://adamnash.blog/2011/12/16/be-a-great-product-leader/)
 - [How to Hire a Product Manager](https://www.bringthedonuts.com/essays/productmanager.html)
 - [Execution at Facebook](https://productlife.to/p/-execution-at-facebook)
+- [The Ultimate Guide to Program Management](https://www.projectmanager.com/program-management)
 - [Google - Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
+
+## Interviews
+- [Facebook TPM interview: the only post you'll need to read](https://igotanoffer.com/blogs/tech/facebook-technical-program-manager-interview)
 
 ## Other
 - [Awesome CTO](https://github.com/kuchin/awesome-cto)
