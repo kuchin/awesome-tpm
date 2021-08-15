@@ -28,6 +28,12 @@ A curated and **opinionated** list of resources for Technical Program Managers
 
 ## Interviews
 - [Facebook TPM interview: the only post you'll need to read](https://igotanoffer.com/blogs/tech/facebook-technical-program-manager-interview)
+- Exponent: Technical Program Manager Interview Guide
+    - [Google](https://www.tryexponent.com/guides/google/tpm-interview)
+    - [Facebook](https://www.tryexponent.com/guides/facebook/tpm-interview/)
+    - [Amazon](https://www.tryexponent.com/guides/amazon/tpm-interview/)
+    - [Youtube playlist](https://www.youtube.com/playlist?list=PLrtCHHeadkHqpCTAa20_JqYUEzK3pd3_r)
+- [Mario Gerard: TPM Interview Prep and more](https://www.mariogerard.com)
 
 ## Other
 - [Awesome CTO](https://github.com/kuchin/awesome-cto)
