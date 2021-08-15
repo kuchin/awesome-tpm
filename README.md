@@ -16,6 +16,8 @@ A curated and **opinionated** list of resources for Technical Program Managers
 - [Doordash - 6 Principles for Building a World Class TPM Team](https://doordash.engineering/2021/08/02/6-principles-for-building-a-world-class-tpm-team/)
 - [Technical program management: Why we started a TPM team at FullStory](https://www.fullstory.com/blog/technical-program-management-why-we-started-a-tpm-team)
 - [Role of TPM](https://www.linkedin.com/pulse/technical-program-manager-vraj-shroff/)
+- [Technical Program Management Principles @ Lyft](https://eng.lyft.com/technical-program-management-tpm-principles-lyft-9134becd2222)
+- [Your First 60 Days As A Technical Program Manager](https://www.mariogerard.com/your-first-60-days-as-a-technical-program-manager/)
 
 ## Related
 
@@ -28,7 +30,7 @@ A curated and **opinionated** list of resources for Technical Program Managers
 
 ## Interviews
 - [Facebook TPM interview: the only post you'll need to read](https://igotanoffer.com/blogs/tech/facebook-technical-program-manager-interview)
-- Exponent: Technical Program Manager Interview Guide
+- [Exponent: Technical Program Manager Interview Guide](https://www.tryexponent.com)
     - [Google](https://www.tryexponent.com/guides/google/tpm-interview)
     - [Facebook](https://www.tryexponent.com/guides/facebook/tpm-interview/)
     - [Amazon](https://www.tryexponent.com/guides/amazon/tpm-interview/)
