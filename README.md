@@ -1,6 +1,7 @@
 # Awesome TPM
 A curated and **opinionated** list of resources for Technical Program Managers
 
+
 ## Basics
 
 - [What is the role of a Technical Program Manager at Facebook?](https://www.quora.com/What-is-the-role-of-a-Technical-Program-Manager-at-Facebook) _(Quora)_
@@ -8,6 +9,8 @@ A curated and **opinionated** list of resources for Technical Program Managers
 - [What does a technical program manager do in practice?](https://www.reddit.com/r/cscareerquestions/comments/kgyneo/what_does_a_technical_program_manager_do_in/) _(Reddit)_
 - [What Is a Program Manager vs. a Project Manager?](https://www.wrike.com/blog/program-manager-vs-project-manager/)
 - [Product Manager versus Program Manager](https://www.linkedin.com/posts/sandyacarter_amazon-marketing-productmarketing-activity-6828406552110755840-f-wJ/)
+- [What is the Role of a Technical Program Manager?](https://blog.tryexponent.com/what-is-the-role-of-a-technical-program-manager/)
+
 
 ## Advanced
 
@@ -19,14 +22,6 @@ A curated and **opinionated** list of resources for Technical Program Managers
 - [Technical Program Management Principles @ Lyft](https://eng.lyft.com/technical-program-management-tpm-principles-lyft-9134becd2222)
 - [Your First 60 Days As A Technical Program Manager](https://www.mariogerard.com/your-first-60-days-as-a-technical-program-manager/)
 
-## Related
-
-- [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister) _(Quora)_
-- [Be a Great Product Leader](https://adamnash.blog/2011/12/16/be-a-great-product-leader/)
-- [How to Hire a Product Manager](https://www.bringthedonuts.com/essays/productmanager.html)
-- [Execution at Facebook](https://productlife.to/p/-execution-at-facebook)
-- [The Ultimate Guide to Program Management](https://www.projectmanager.com/program-management)
-- [Google - Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
 
 ## Interviews
 - [Facebook TPM interview: the only post you'll need to read](https://igotanoffer.com/blogs/tech/facebook-technical-program-manager-interview)
@@ -36,6 +31,24 @@ A curated and **opinionated** list of resources for Technical Program Managers
     - [Amazon](https://www.tryexponent.com/guides/amazon/tpm-interview/)
     - [Youtube playlist](https://www.youtube.com/playlist?list=PLrtCHHeadkHqpCTAa20_JqYUEzK3pd3_r)
 - [Mario Gerard: TPM Interview Prep and more](https://www.mariogerard.com)
+- [Reverse interview](https://github.com/viraptor/reverse-interview)
+
+
+## Related
+
+- [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister) _(Quora)_
+- [Be a Great Product Leader](https://adamnash.blog/2011/12/16/be-a-great-product-leader/)
+- [How to Hire a Product Manager](https://www.bringthedonuts.com/essays/productmanager.html)
+- [Execution at Facebook](https://productlife.to/p/-execution-at-facebook)
+- [The Ultimate Guide to Program Management](https://www.projectmanager.com/program-management)
+- [Google - Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
+- [Design Patterns for Managing Up](https://queue.acm.org/detail.cfm?id=3308563)
+
+
+## Project management
+- [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
+- [The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite](https://review.firstround.com/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite)
+
 
 ## Other
 - [Awesome CTO](https://github.com/kuchin/awesome-cto)
