@@ -21,6 +21,7 @@ A curated and **opinionated** list of resources for Technical Program Managers
 - [Role of TPM](https://www.linkedin.com/pulse/technical-program-manager-vraj-shroff/)
 - [Technical Program Management Principles @ Lyft](https://eng.lyft.com/technical-program-management-tpm-principles-lyft-9134becd2222)
 - [Your First 60 Days As A Technical Program Manager](https://www.mariogerard.com/your-first-60-days-as-a-technical-program-manager/)
+- [What TPMs Do and What Software Engineers Can Learn From Them](https://newsletter.pragmaticengineer.com/p/what-tpms-do)
 
 
 ## Interviews
